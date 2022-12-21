@@ -1,0 +1,42 @@
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url(bg1.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+* {
+    padding: 0%;
+    margin: 0%;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li{ 
+    list-style-type: none;
+    margin: 20px;
+}
+.atas {
+    margin-top: 50px;
+}
+.bawah p{
+    height: 400px;
+    color: black;
+}
+.foto1 {
+    width: 12%;
+    height: 10%;
+    margin-left: 470px;
+    margin-top: -300px;
+    border-radius: 50%;
+}
+.foto2 {
+    width: 16%;
+    height: 20%;
+    border-radius: 50%;
+    margin-left: 200px;
+    margin-top: -300px;
+}
+.garis {
+    width: 50%;
+    align-items: center;
+}
